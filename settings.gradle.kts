@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Homenu"
 include(":app")
- 
+include(":domain")
+include(":data")
