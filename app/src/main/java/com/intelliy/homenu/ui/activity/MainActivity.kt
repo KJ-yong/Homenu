@@ -1,4 +1,4 @@
-package com.intelliy.homenu
+package com.intelliy.homenu.ui.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
